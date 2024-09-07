@@ -1,5 +1,5 @@
 import streamlit as st
-from streamlit_option_menu import option_menu
+from streamlit_option_menu import option_menu  # pip install streamlit-option-menu
 import time
 import pandas as pd
 
@@ -18,7 +18,7 @@ with st.sidebar:
 
 # 상태를 유지하는 함수
 def rerun_app():
-    st.experimental_rerun()
+    st.rerun()
 
 # 선택한 메뉴에 따라 UI가 동적으로 변경
 if selected == "Home":

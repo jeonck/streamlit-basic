@@ -1,5 +1,5 @@
 import streamlit as st
-from streamlit_option_menu import option_menu
+from streamlit_option_menu import option_menu  # pip install streamlit-option-menu
 import pandas as pd
 import numpy as np
 import time
@@ -9,7 +9,7 @@ st.set_page_config(layout="wide")
 
 # 상태를 유지하는 함수
 def rerun_app():
-    st.experimental_rerun()
+    st.rerun()
 
 # 사이드바 메뉴
 with st.sidebar:
