@@ -1,6 +1,6 @@
 import streamlit as st
 from streamlit_elements import elements, mui, html
-from textblob import TextBlob
+from textblob import TextBlob  # pip install textblob
 
 # 페이지 설정
 st.set_page_config(layout="wide")
