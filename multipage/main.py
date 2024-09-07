@@ -18,7 +18,7 @@ menu_structure = {
 navigation = st.navigation(menu_structure)
 
 # 페이지 기본 설정 (favicon 포함)
-st.set_page_config(page_title="멀티페이지 앱 데모", page_icon="📖")
+st.set_page_config(page_title="멀티페이지 앱 데모", page_icon="📖", layout="wide")
 
 # 선택된 페이지 실행
 navigation.run()
