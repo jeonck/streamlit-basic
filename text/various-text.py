@@ -27,3 +27,8 @@ with st.expander(":blue[**Click to see background color examples**]"):
 # Section 4: Expander for custom title example
 with st.expander(":red[**Custom Title Example with Rainbow**]"):
     st.markdown(":rainbow[**Refine your output here**]")
+
+import streamlit as st
+
+# 방문자 카운터 배지 이미지 삽입
+st.image("https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fyour-site-url.com&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false", caption="Visitor Count")
