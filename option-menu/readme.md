@@ -6,3 +6,6 @@
 
 # option menu group with additional options
 <img width="1686" alt="image" src="https://github.com/user-attachments/assets/cf95a2b2-becb-43cf-82ef-42a8cd0e2cda">
+
+# option menu for groups
+<img width="1099" alt="image" src="https://github.com/user-attachments/assets/c79d2b05-da2d-4507-845d-d004123ac244">
