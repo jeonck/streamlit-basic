@@ -6,3 +6,6 @@
 
 # Sidebar group expander 
 <img width="1675" alt="image" src="https://github.com/user-attachments/assets/fd456f72-9ece-440b-a19f-b605d446edac">
+
+# Sidebar select box menu & submenu
+![image](https://github.com/user-attachments/assets/e151033c-41cf-4f02-8c6b-2df7b4cdb6a3)
