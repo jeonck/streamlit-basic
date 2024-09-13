@@ -4,6 +4,9 @@
 # Expander message 
 <img width="569" alt="image" src="https://github.com/user-attachments/assets/fd2d7d49-a440-42f8-aac6-d5c683622993">
 
+# 팝업 메시지 유사 형식 
+<img width="565" alt="image" src="https://github.com/user-attachments/assets/07a84618-747f-43f4-8096-398f53ac618f">
+
 
 # 메시지 유형 
 Streamlit에서 제공하는 주요 메시지 유형은 다음과 같습니다:   
