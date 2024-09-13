@@ -6,3 +6,6 @@
 
 # quote slide 
 <img width="736" alt="image" src="https://github.com/user-attachments/assets/db6955d2-3174-40d7-bc44-577582e91012">
+
+# conditional slide 
+<img width="737" alt="image" src="https://github.com/user-attachments/assets/0d6a2403-c682-4e8d-a64c-d7e9d7ae7104">
