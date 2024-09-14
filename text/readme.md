@@ -10,3 +10,6 @@
 
 # streamlit magic
 <img width="416" alt="image" src="https://github.com/user-attachments/assets/ecf10878-90d8-4647-9dd0-d0025995a617">
+
+# latex 
+<img width="687" alt="image" src="https://github.com/user-attachments/assets/a552749c-1724-40c3-a25e-98320bb04e76">
