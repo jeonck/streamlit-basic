@@ -4,3 +4,6 @@
 # badge 
 <img width="812" alt="image" src="https://github.com/user-attachments/assets/9450d925-3e72-4c26-ac91-87546c221805">
 
+# text stream  
+글자가 흘러가듯이 표시가 됩니다. 
+<img width="695" alt="image" src="https://github.com/user-attachments/assets/ba15f5e3-bf82-4990-978a-4dc3cf8e3cb8">
