@@ -7,3 +7,6 @@
 # text stream  
 글자가 흘러가듯이 표시가 됩니다. 
 <img width="695" alt="image" src="https://github.com/user-attachments/assets/ba15f5e3-bf82-4990-978a-4dc3cf8e3cb8">
+
+# streamlit magic
+<img width="416" alt="image" src="https://github.com/user-attachments/assets/ecf10878-90d8-4647-9dd0-d0025995a617">
