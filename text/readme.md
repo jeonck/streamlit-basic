@@ -13,3 +13,6 @@
 
 # latex 
 <img width="687" alt="image" src="https://github.com/user-attachments/assets/a552749c-1724-40c3-a25e-98320bb04e76">
+
+# word importance 
+<img width="732" alt="image" src="https://github.com/user-attachments/assets/88b923d5-0786-4956-a946-d42acb419007"> 
