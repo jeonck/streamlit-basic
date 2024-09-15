@@ -15,3 +15,6 @@
 
 # resource monitoring 
 <img width="1403" alt="image" src="https://github.com/user-attachments/assets/0e78c781-a671-4361-80a5-016f41acfa0a">
+
+# resource monitoring - bootstrap style 
+<img width="1423" alt="image" src="https://github.com/user-attachments/assets/3f0ba777-4094-4b83-a0a9-bb46f03a21bb">
