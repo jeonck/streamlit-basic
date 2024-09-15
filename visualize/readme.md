@@ -6,3 +6,6 @@
 
 # Donut chart 
 <img width="1435" alt="image" src="https://github.com/user-attachments/assets/04c29702-cb70-4f80-9f78-1bc159470b71">
+
+# sales-dashboards
+<img width="1411" alt="image" src="https://github.com/user-attachments/assets/432f54bb-973f-444b-9471-a5b81d877215">
