@@ -12,3 +12,6 @@
 
 # function graph
 <img width="1409" alt="image" src="https://github.com/user-attachments/assets/3fbfcb80-ba52-47bf-8de4-76ecb2796cb5">
+
+# resource monitoring 
+<img width="1403" alt="image" src="https://github.com/user-attachments/assets/0e78c781-a671-4361-80a5-016f41acfa0a">
