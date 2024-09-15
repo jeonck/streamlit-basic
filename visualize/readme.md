@@ -9,3 +9,6 @@
 
 # sales-dashboards
 <img width="1411" alt="image" src="https://github.com/user-attachments/assets/432f54bb-973f-444b-9471-a5b81d877215">
+
+# function graph
+<img width="1409" alt="image" src="https://github.com/user-attachments/assets/3fbfcb80-ba52-47bf-8de4-76ecb2796cb5">
