@@ -16,3 +16,6 @@
 
 # word importance 
 <img width="732" alt="image" src="https://github.com/user-attachments/assets/88b923d5-0786-4956-a946-d42acb419007"> 
+
+# annotated text
+<img width="775" alt="image" src="https://github.com/user-attachments/assets/9bbf3b09-6e70-4c9b-b293-934af1e1ad89">
