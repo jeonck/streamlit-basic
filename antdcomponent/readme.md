@@ -1,4 +1,7 @@
-## antd component  
+## antd component simple
+<img width="752" alt="image" src="https://github.com/user-attachments/assets/aa31c74b-615e-45df-95c1-d3100e4dddf5">  
+
+## antd component 
 <img width="1785" alt="image" src="https://github.com/user-attachments/assets/2bcb8aa2-6e91-4ad3-9297-6130c29472f0">  
 
 ## sidebar menu   
