@@ -1,0 +1,17 @@
+# .streamlit/config.toml 파일로 관리 
+[server]
+headless = true
+port = 8501
+enableCORS = true
+enableXsrfProtection = true
+maxUploadSize = 200
+
+[theme]
+primaryColor = "#4CAF50"
+backgroundColor = "#f0f2f6"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#333333"
+font = "sans serif"
+
+[logger]
+level = "info"
